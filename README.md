@@ -1,4 +1,8 @@
 <h1 align="center">emplOyeeXD</h1>
+<div align="center">
+<img src="shots/emplOyeeXD.jpg" width="30%">
+<img src="shots/UserManagementSyst.jpg" width='60%'>
+</div>
 
 # User Management System
 Welcome to the User Management System! This platform enables you to manage users and administrators, along with their respective information, through a straightforward and intuitive interface using terminal-base graphic.
@@ -33,10 +37,20 @@ cd src
 g++ main.cpp
 a.exe
 ```
-the save file is stored near the .exe file and has the default name save.hasan
+
+the save file is stored near the .exe file and has the default name `save.txt`
 
 ## Contributing
+
 If you want to contribute to this project, please fork the repository, make your changes, and then submit a pull request.
 
 ## License
-This project is licensed under the MIT [License](LICENSE).
+
+This project is licensed under the MIT [License](LICENSE) .
+
+## shots
+admin panel:
+![](shots/Shot%200005.png)
+
+user panel:
+![](shots/Shot%200006.png)
