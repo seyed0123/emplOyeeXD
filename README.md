@@ -30,13 +30,6 @@ managerID:123456
 
 After successfully creating or loading a database, you may proceed to add, remove, or modify users and administrators. To incorporate a novice user or administrator, merely type '1', followed by the applicable information (e.g., username, password, etc.). Conversely, to eliminate a user or administrator, input '2', accompanied by the identifier of the individual you seek to eradicate. Finally, to revise a user or administrator's details, type '3', succeeded by the identifier of the target individual, and subsequently provide the modified information.
 
-## Viewing Users and Administrators
-
-To display all enrolled users and administrators, type '4'. Alternatively, to examine a particular user or administrator, input '5', followed by the identifier of the personage you desire to scrutinize.
-
-## Terminating Utilization
-
-When you decide to conclude utilizing the system, simply type '7' to preserve any modifications you have effectuated and terminate the program.
 
 ## Installation
 
